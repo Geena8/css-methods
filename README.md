@@ -1,1 +1,3 @@
-# css-methods
+This repo is to add CSS to HTML files.
+There are three main methods of adding CSS to an HTML file. They are: 1. By creating a CSS index file and incorporating it into the HTML file with the help of the <link rel="stylesheet" href="index.css"/> self closing tag. 2) By using the <style> tag in the HTML file (unto the same page)
+3. The third option is by adding it directly to the line with the help of the style attribute.  
